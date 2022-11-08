@@ -1,0 +1,48 @@
+.background {
+  position: absolute;
+  width: 3px;
+  height: 8px;
+  left: 0;
+  top: 0;
+}
+
+.nav {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
+}
+
+.nav img {
+  padding-left: 15%;
+}
+
+.main {
+  padding-top: 10%;
+  padding-left: 5%;
+}
+
+.main h3 {
+  font-size: 16px;
+}
+
+.icon {
+  display: flex;
+}
+
+.img {
+  padding-right: 1%;
+  width: 20px;
+  height: 20px;
+}
+
+.linkedin {
+  display: flex;
+  width: 5px;
+}
